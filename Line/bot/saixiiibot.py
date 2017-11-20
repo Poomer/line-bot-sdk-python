@@ -65,9 +65,9 @@ botlen  = len(botcall)
 processpool = 5
 
 # get channel_secret and channel_access_token from your environment variable
-channel_secret = 'a4830b56ff9e5d85c3ff4a67f2360ee1'
-channel_access_token = 'jibJtKouOP8/0UYtTRtlXcB70zzJlfKtBnCXH7m4OwgsEwRKezyI8/E8frwhWSUNtJ5efliVvp4eOCFyNksfrGCXAcsvVq7O8idF7dy1fesLrsrN0Nm4RGR1vkYxGSphrwhAHSFlm9kX7FYZmkxFTwdB04t89/1O/w1cDnyilFU='
-signature = 'Suphakit Annoppornchai'
+channel_secret = '
+channel_access_token =
+signature = ''
 
 # Log file configuration
 static_tmp_path = '/app/python/Line/log/content'
